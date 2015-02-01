@@ -38,6 +38,11 @@ apps=(
   spotify
   vagrant
   arq
+  textmate
+  rescuetime
+  reaper
+  rawtherapee
+  omnifocus
   flash
   iterm2
   qlprettypatch
