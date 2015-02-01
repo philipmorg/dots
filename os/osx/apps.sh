@@ -9,6 +9,23 @@ apps=(
   alfred
   dropbox
   google-chrome
+  cyberduck
+  bittorrent-sync
+  pupil
+  google-drive
+  default-folder-x
+  bartender
+  cloak
+  viscosity
+  slate
+  caffeine
+  audacity
+  calibre
+  clarify
+  disk-inventory-x
+  fantastical
+  fluid
+  freemind
   qlcolorcode
   screenflick
   slack
