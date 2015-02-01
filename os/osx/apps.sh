@@ -28,8 +28,6 @@ apps=(
   sublime-text3
   virtualbox
   atom
-  flux
-  mailbox
   qlstephen
   sketch
   tower
