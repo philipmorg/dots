@@ -14,6 +14,7 @@ apps=(
   pupil
   google-drive
   default-folder-x
+  screenflow
   bartender
   cloak
   viscosity
