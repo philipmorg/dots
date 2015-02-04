@@ -6,6 +6,7 @@ set -e
 
 # Apps
 apps=(
+  adobe-reader
   alfred
   dropbox
   google-chrome
