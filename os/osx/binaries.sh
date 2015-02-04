@@ -27,6 +27,7 @@ brew install homebrew/dupes/grep
 # Install other useful binaries
 binaries=(
   graphicsmagick
+  pandoc
   webkit2png
   phantomjs
   rename
