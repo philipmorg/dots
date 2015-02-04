@@ -6,6 +6,7 @@ set -e
 
 # Apps
 apps=(
+  skitch
   adobe-reader
   alfred
   dropbox
