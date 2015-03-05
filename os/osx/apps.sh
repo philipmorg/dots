@@ -6,6 +6,7 @@ set -e
 
 # Apps
 apps=(
+  github
   monotype-skyfonts
   skitch
   adobe-reader
