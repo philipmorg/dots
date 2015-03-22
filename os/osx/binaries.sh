@@ -27,6 +27,8 @@ brew install homebrew/dupes/grep
 # Install other useful binaries
 binaries=(
   graphicsmagick
+  imagemagick
+  pillow
   sox
   pandoc
   webkit2png
